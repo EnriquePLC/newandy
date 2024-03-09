@@ -1,0 +1,137 @@
+.elementor-59 .elementor-element.elementor-element-29c7b18a{
+    border-style:solid;
+    border-width:0px 0px 0px 0px;
+    border-color:#FFFFFF;
+    transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0% 0% 0% 0%;
+}
+.elementor-59 .elementor-element.elementor-element-29c7b18a > .elementor-background-overlay{
+    transition:background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-59 .elementor-element.elementor-element-51be69d5{
+    text-align:center;
+}
+.elementor-59 .elementor-element.elementor-element-51be69d5 .elementor-heading-title{
+   /*
+    color:#FFFFFF;
+    font-family:"Dinosaur", Sans-serif;
+    font-size:55px;
+    font-weight:600;
+    -webkit-text-stroke-width:1px;
+    stroke-width:1px;
+    -webkit-text-stroke-color:#6DCBD5;
+    stroke:#6DCBD5;
+    text-shadow:2px 3px 0px #145A62; LOGO HEADER EDITAR
+    */
+
+    /*
+
+
+        color: #FFFFFF;
+    font-family: "Dinosaur", Sans-serif;
+    font-size: 55px;
+    font-weight: 600;
+    -webkit-text-stroke-width:1px;
+    stroke-width:1px;
+    -webkit-text-stroke-color:#ff9800; 
+    stroke:#6DCBD5;
+    text-shadow:2px 5px 0px #d56d6d; editar alt version
+*/
+    color: #FFFFFF;
+    font-family: "Dinosaur", Sans-serif;
+    font-size: 55px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #d56d6d;
+    stroke: #6DCBD5;
+    /* text-shadow: 2px 5px 0px #ffc500; */
+    background: -webkit-linear-gradient(#ffef00, #ffc100);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+
+}
+.elementor-bc-flex-widget .elementor-59 .elementor-element.elementor-element-16d21ce6.elementor-column .elementor-widget-wrap{
+    align-items:center;
+}
+.elementor-59 .elementor-element.elementor-element-16d21ce6.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{
+    align-content:center;
+    align-items:center;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-menu-toggle{
+    margin:0 auto;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu .elementor-item{
+    font-family:"Dinosaur", Sans-serif;
+    font-size:25px;
+    font-weight:200;
+    letter-spacing:1.3px;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item{
+    color:#1D1919;
+    fill:#1D1919;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item:hover, .elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item.elementor-item-active, .elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item.highlighted, .elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item:focus{
+    color:#2A2525;
+    fill:#2A2525;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before, .elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{
+    background-color:#85188F;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .e--pointer-framed .elementor-item:before, .elementor-59 .elementor-element.elementor-element-5abcaa0 .e--pointer-framed .elementor-item:after{
+    border-color:#85188F;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main .elementor-item.elementor-item-active{
+    color:#1D1919;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before, .elementor-59 .elementor-element.elementor-element-5abcaa0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after{
+    background-color:#1D1919;
+}
+.elementor-59 .elementor-element.elementor-element-5abcaa0 .e--pointer-framed .elementor-item.elementor-item-active:before, .elementor-59 .elementor-element.elementor-element-5abcaa0 .e--pointer-framed .elementor-item.elementor-item-active:after{
+    border-color:#1D1919;
+}
+.elementor-bc-flex-widget .elementor-59 .elementor-element.elementor-element-59c4d439.elementor-column .elementor-widget-wrap{
+    align-items:center;
+}
+.elementor-59 .elementor-element.elementor-element-59c4d439.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{
+    align-content:center;
+    align-items:center;
+}
+.elementor-59 .elementor-element.elementor-element-1794ce73 .elementor-repeater-item-9c611ff.elementor-social-icon{
+    background-color:#FFFFFF;
+}
+.elementor-59 .elementor-element.elementor-element-1794ce73 .elementor-repeater-item-9c611ff.elementor-social-icon i{
+    color:#6DCBD5;
+}
+.elementor-59 .elementor-element.elementor-element-1794ce73 .elementor-repeater-item-9c611ff.elementor-social-icon svg{
+    fill:#6DCBD5;
+}
+.elementor-59 .elementor-element.elementor-element-1794ce73{
+    --grid-template-columns:repeat(0, auto);
+    --grid-column-gap:5px;
+    --grid-row-gap:0px;
+}
+.elementor-59 .elementor-element.elementor-element-1794ce73 .elementor-widget-container{
+    text-align:center;
+}
+@media(min-width:768px){
+    .elementor-59 .elementor-element.elementor-element-2715d3aa{
+        width:25%;
+    }
+    .elementor-59 .elementor-element.elementor-element-16d21ce6{
+        width:49.333%;
+    }
+    .elementor-59 .elementor-element.elementor-element-59c4d439{
+        width:25%;
+    }
+}
+@media(max-width:1024px) and (min-width:768px){
+    .elementor-59 .elementor-element.elementor-element-2715d3aa{
+        width:50%;
+    }
+    .elementor-59 .elementor-element.elementor-element-16d21ce6{
+        width:25%;
+    }
+}
